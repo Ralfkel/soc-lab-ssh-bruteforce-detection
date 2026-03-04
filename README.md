@@ -16,6 +16,7 @@ Linux authentication logs:
 
 /var/log/auth.log
 
+
 These logs contain information about login attempts and failed passwords.
 
 ## Attack Simulation
@@ -48,3 +49,6 @@ failed attempts: 9
 - SSH attack simulation
 - Security monitoring with Splunk
 - Detection engineering using SPL queries
+
+## Detection Screenshot
+screenshot_splunk
