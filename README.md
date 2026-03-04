@@ -51,4 +51,4 @@ failed attempts: 9
 - Detection engineering using SPL queries
 
 ## Detection Screenshot
-screenshot_splunk
+![Splunk Detection](screenshot_splunk)
